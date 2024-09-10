@@ -41,3 +41,4 @@ Please note that the API requests will not work (aka the bot wouldn't be able to
 
 ## Support My Work
 <a href="https://www.buymeacoffee.com/simonfarah" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+![20230812_143734](https://github.com/user-attachments/assets/1410a7fa-be2f-4165-88d6-ceb653835f3a)
